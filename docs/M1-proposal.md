@@ -3,13 +3,13 @@
 **Bounty:** WDK in Ecommerce
 **Milestone:** M1 (Proposal & Platform Selection)
 **Author:** github.com/morpheus-csmith
-**Date:** 5/14/26
+**Date:** 14 May 2026
 
 ---
 
 ## 1. Executive summary
 
-This proposal commits to delivering a self-custodial USDt checkout flow as a **WooCommerce payment gateway plugin**, backed by a small **TypeScript SDK** (`@[handle]/wdk-checkout-core`) that any Node-based headless commerce stack (Medusa, Next.js commerce, custom Express backends) can also consume. The plugin is a thin PHP wrapper that calls the WDK Indexer REST API directly. The SDK exposes the same logic to JavaScript backends without duplicating it.
+This proposal commits to delivering a self-custodial USDt checkout flow as a **WooCommerce payment gateway plugin**, backed by a small **TypeScript SDK** (`@morpheus-csmith/wdk-checkout-core`) that any Node-based headless commerce stack (Medusa, Next.js commerce, custom Express backends) can also consume. The plugin is a thin PHP wrapper that calls the WDK Indexer REST API directly. The SDK exposes the same logic to JavaScript backends without duplicating it.
 
 Three principles drive every design decision:
 
@@ -221,11 +221,10 @@ The plugin and SDK adhere to:
 
 ## 9. About me
 
-I'm a forward deployed engineer with eight years of experience shipping production web applications, most recently across a Laravel/React stack for B2B SaaS. My WooCommerce work began as part of client engagements customizing checkout flows and integrating third-party payment processors (Stripe, Authorize.net), which is where I first encountered the WC_Payment_Gateway API and the realities of WordPress hook-based architecture. On the blockchain side, I've worked with EVM tooling (ethers.js, viem) on a personal DeFi dashboard project tracking USDt flows across Polygon and Arbitrum, which gave me hands-on familiarity with token transfer indexing and confirmation logic — the same primitives this bounty depends on. I'm drawn to WDK specifically because self-custodial payment rails are the missing piece between crypto's settlement properties and real merchant adoption.
-Portfolio: github.com/morpheus-csmith
+I'm new to crypto but I've been building real things for 10 years
 
 ---
 
-**Repository (will be public at M2):** `github.com/morpheus-csmith/wc-wdk-payments`
+**Repository:** `github.com/morpheus-csmith/wc-wdk-payments`
 **License:** Apache-2.0
 **Contact:** csmith.pmtech@gmail.com
