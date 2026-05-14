@@ -221,7 +221,8 @@ The plugin and SDK adhere to:
 
 ## 9. About me
 
-I’m new to crypto, but I’ve been building and delivering real-world technology solutions for over 10 years — leading products, platforms, AI/ML initiatives, data systems, and enterprise-scale programs across multiple industries. I approach crypto the same way: focused on solving real problems, building usable systems, and creating long-term value rather than chasing hype.
+I'm a software engineer / development platform manager. My relevant background for this bounty is in backend web development with PHP, WordPress, and TypeScript. I've spent the last several months studying WDK's source and documentation in preparation for this proposal. I'm submitting solo and have cleared time on my schedule specifically to ship M1 through M3 on the bounty's timeline.
+Portfolio: github.com/morpheus-csmith
 
 ---
 
