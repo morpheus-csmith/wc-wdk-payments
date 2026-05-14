@@ -196,7 +196,7 @@ Working checkout integration with WDK transaction tracking on at least one EVM c
 - Address resolver with both Strategy A and Strategy B
 - Action Scheduler–backed poller with the cadence schedule in §4.5
 - Order state machine wired into WC's `wc-pending` → `wc-on-hold` → `wc-processing` transitions
-- TypeScript SDK published to npm as `@[handle]/wdk-checkout-core@0.1.0`, with the same logic as the PHP plugin
+- TypeScript SDK published to npm as `@morpheus-csmith/wdk-checkout-core@0.1.0`, with the same logic as the PHP plugin
 - A working end-to-end test on Tron Nile and Sepolia, scripted
 
 ### M3 — Final delivery (40% of grant)
