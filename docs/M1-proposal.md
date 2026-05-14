@@ -221,7 +221,7 @@ The plugin and SDK adhere to:
 
 ## 9. About me
 
-I'm new to crypto but I've been building real things for 10 years
+I’m new to crypto, but I’ve been building and delivering real-world technology solutions for over 10 years — leading products, platforms, AI/ML initiatives, data systems, and enterprise-scale programs across multiple industries. I approach crypto the same way: focused on solving real problems, building usable systems, and creating long-term value rather than chasing hype.
 
 ---
 
